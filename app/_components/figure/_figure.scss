@@ -1,0 +1,40 @@
+.app-figure {
+  margin: 0;
+  @include nhsuk-responsive-margin(8, "bottom");
+
+  > a {
+    display: block;
+    outline: 1px solid rgba($nhsuk-border-color, 0.5);
+
+    &:hover {
+      outline-color: $nhsuk-link-hover-color;
+    }
+
+    &:active {
+      outline-color: $nhsuk-link-active-color;
+    }
+  }
+
+  a img {
+    outline: 0;
+  }
+
+  .app-figure__caption {
+    @include nhsuk-responsive-margin(4, "top");
+    @include nhsuk-font($size: 19);
+
+    h3 {
+      @extend %nhsuk-heading-s;
+    }
+
+    hr {
+      @extend %nhsuk-section-break--m;
+    }
+  }
+
+  figcaption {
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+}
