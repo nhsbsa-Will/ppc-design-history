@@ -1,13 +1,13 @@
 ---
 layout: collection
-title: "A design history for Buy an NHS Prescription Prepayment Certificate"
+title: "PPC design history"
 description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
 pagination:
   data: collections.all
   reverse: true
   size: 50
 posts:
-  title: Getting started
+  title: 
 eleventyComputed:
   eleventyNavigation:
     key: home
