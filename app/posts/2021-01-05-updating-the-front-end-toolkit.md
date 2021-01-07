@@ -17,6 +17,11 @@ What we reviewed:
 * Content in the Start page
 * Following GDS guidance changed 'Next' label to 'Continue'
 
+What we found:
+
+* 2 participants welcomed the opening line about saving money
+* Start page : 'How it works' section is it a right title?
+
 You can see an example of some of the pages that have been updated below. 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
