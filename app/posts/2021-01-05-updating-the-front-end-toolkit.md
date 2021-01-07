@@ -4,20 +4,22 @@ description: The BSA elements toolkit is now outdated and we're planning to move
 date: 2021-01-05
 ---
 
-We believe that redesigining PPC online with the NHSUK Front end Kit will be a useful feature for users as it will create familiarity and trust with users with the NHS branding. 
+**Hypothesis**
+
+We believe that redesigining PPC online with the NHSUK Front end Kit will be a useful feature for users as it will create familiarity and trust with users with the NHS branding.
 
 It is also up to date with the accessiblity point of view as well as being more recognisable and trustworthy to end users.
 
 This will help users to confidently use the service.
 
-What we reviewed:
+**What we reviewed:**
 
 * Created a back link
 * Removed the cancel link
 * Content in the Start page
 * Following GDS guidance changed 'Next' label to 'Continue'
 
-What we found:
+**What we found:**
 
 * 2 participants welcomed the opening line about saving money
 * Start page : 'How it works' section is it a right title?
